@@ -2,7 +2,6 @@
 int main()
 {
     int i,k=0;
-
     double arr [6];
     for(i=0; i<6; i++)
     {
@@ -15,7 +14,6 @@ int main()
            k++;
         }
     } printf("%d valores positivos\n",k);
-
 
     return 0;
 }
