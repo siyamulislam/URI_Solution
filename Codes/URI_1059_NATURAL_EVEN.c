@@ -2,7 +2,7 @@
 int main()
 {
     int i,x;
-    scanf("%d",&x);
+    scanf("%d", &x);
     if(x>=1 && x<=1000)
     {
         for(i=1; i<=x;i++)
@@ -13,6 +13,5 @@ int main()
             }
         }
     }
-
     return 0;
 }
