@@ -3,7 +3,7 @@ URI Online Judge | Bee Crowd | Solutions | Using C, C++,Java, Python.
 
 
 Here is some source codes of URI online Judge.
-Here, I have upload some URI Online Judge problems solution in C, C++,Java, Python languages.
+Here, I have upload some URI Online Judge problems solution in C, C++,Java, Python languages, SQL.
 You can get help from these URI Online judge solutions if u face any problem in your coding time.
 As a programmer, My first suggest to you, "First try these code by urself ". It will be the best if you solve your own code.  
  
