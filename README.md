@@ -1,5 +1,5 @@
 # URI_Solution
-URI Online Judge |Bee Crowd | Solutions | Using C, C++,Java, Python.
+URI Online Judge | Bee Crowd | Solutions | Using C, C++,Java, Python.
 
 
 Here is some source codes of URI online Judge.
