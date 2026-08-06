@@ -1,6 +1,8 @@
 # URI_Solution
-URI Online Judge | Bee Crowd | Solutions | Using C, C++,Java, Python, JavaScprict.
+URI Online Judge | BeeCrowd | Solutions | Using C, C++, Java, Python, JavaScprict.
 
+Find me at Biggest rank
+https://judge.beecrowd.com/en/profile/152121
 
 Here is some source codes of URI online Judge.
 Here, I have upload some URI Online Judge problems solution in C, C++,Java, Python languages, SQL.
@@ -13,8 +15,10 @@ That will damage your coding skill and confident.
 
 If u face any problem then conntact with me any time.
 Web : siyamul.com
-Email : siyamulislam1@gmail.com
+Email : siyamul.cse@gmail.com
 Facebook: facebook.com/siyamul.cse
 Instragram: instagram.com/siyamulislam/
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Happy Coding... 
+Happy Thinking... 
+Happy Imagination... 
