@@ -1,12 +1,12 @@
 n = int(input())
 
-if n >= 90:
+if n >= 86:
     print("A")
-elif n >= 80:
+elif n >= 61:
     print("B")
-elif n >= 70:
+elif n >= 36:
     print("C")
-elif n >= 60:
+elif n >= 1:
     print("D")
 else:
     print("E")
